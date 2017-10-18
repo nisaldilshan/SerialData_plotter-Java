@@ -11,12 +11,11 @@ A simple Serial port data plotting application created with Java
 
 ## Libraries
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [JFreeChart](http://www.jfree.org/jfreechart/) - The chart library used
+* [JSerialComm](http://fazecast.github.io/jSerialComm/) - Serial communication library
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* [Nisal Dilshan](https://github.com/nisaldilshan)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/nisaldilshan/SerialData_plotter-Java/graphs/contributors) who participated in this project.
